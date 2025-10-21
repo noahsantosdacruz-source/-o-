@@ -2,8 +2,9 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background:url(1.jpg);
+      background:url("NOIR onduler.jpg");
       color: #222;
+      background-color: #111;
     }
    
     header h1 { margin: 0; }
@@ -22,6 +23,7 @@
       padding: .5rem;
       border: 1px solid #ccc;
       border-radius: 5px;
+
     }
     .tags {
       display: flex;
@@ -31,7 +33,7 @@
     }
     .tags button {
       border: none;
-      background: #eee;
+      background:silver;
       padding: .3rem .8rem;
       border-radius: 20px;
       cursor: pointer;
@@ -46,10 +48,10 @@
       gap: 1rem;
     }
     .card {
-      background: #fff;
+      background:silver;
       border-radius: 10px;
       overflow: hidden;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      box-shadow: 0 2px 6px rgba(0,0,2,0.1);
       cursor: pointer;
       transition: transform .2s;
     }
@@ -71,9 +73,10 @@
     .modal.active {
       visibility: visible;
       opacity: 1;
+      background-color: #111;
     }
     .modal-content {
-      background: #fff;
+      background: silver;
       border-radius: 10px;
       max-width: 700px;
       width: 90%;
@@ -89,6 +92,7 @@
       background: none;
       font-size: 1.2rem;
       cursor: pointer;
+      color: gold;
     }
     footer :hover { 
       text-decoration: silver;
@@ -96,7 +100,7 @@
       color: goldenrod;
 
     }
-    a { color: #4f46e5; text-decoration: none; }
+    a { color: goldenrod; text-decoration: none; }
     a:hover { text-decoration: overline; 
       color: white;
       text-shadow: 0 0 5px black;
@@ -123,4 +127,12 @@
 #modal.active {
   display: flex;
   opacity: 1;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    color: goldenrod;
+    text-shadow: 2px 2px black;
+    text-decoration: solid;
 }
