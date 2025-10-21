@@ -1,0 +1,1 @@
+var VarDate = new Date();
