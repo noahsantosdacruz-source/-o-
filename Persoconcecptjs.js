@@ -6,12 +6,13 @@
       {id:4, title:"TP4", tags:["TP"], short:"Liste", image:"head.webp", details:"Détails du projet 4 : UX/UI, backend.", src:"liste d'ordinateurTP4.html",href:"liste d'ordinateurTP4.html"},
       {id:5, title:"TP5", tags:["TP"], short:"1st css", image:"head.webp", details:"Détails du projet 5 : contenu, SEO.", src:"style.css/styleTP5.html",href:"style.css/styleTP5.html"},
       {id:6, title:"TP6", tags:["TP"], short:"2nd css", image:"head.webp", details:"Détails du projet 6 : data viz, interactivité.", src:"column.html",href:"column.html"},
+      
       {id:7, title:"mission", tags:["mission"], short:"Formulaire mission", image:"sweet fm.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"Formulaire/Formulaired'inscriptionTP6.html",href:"Formulaire/Formulaired'inscriptionTP6.html"},
       {id:8, title:"TP8", tags:["Vue.js","D3.js,","TP"], short:"Formulaire", image:"sweet fm.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"Formulaire/formulairesolo.html",href:"Formulaire/formulairesolo.html"},
       {id:11, title:"TP9", tags:["TP","Calculatrice.js"], short:"Calculatrice.js", image:"sweet fm.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"calculatrice TP9/train.html",href:"calculatrice TP9/train.html"},
       {id:9, title:"TP10", tags:["TP"], short:"logiciel de virtualisation", image:"NOIR onduler.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"logiciel de virtualisation TP10/Logiciel de virtualisation-3.pdf",href:"logiciel de virtualisation TP10/Logiciel de virtualisation-3.pdf"},
     {id:10, title:"TP11", tags:["TP"], short:"Début", image:"NOIR onduler.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"TP12/tp11.html",href:"TP12/tp11.html"},
-    {id:11, title:"TP12", tags:["TP"], short:"Début", image:"NOIR onduler.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"TP12/tp12.html",href:"TP12/tp11.html"},
+    {id:11, title:"TP12", tags:["TP"], short:"Début", image:"NOIR onduler.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"TP12/TP12.html",href:"TP12/TP12.html"},
     
     
     ];
@@ -109,5 +110,4 @@ function closeNavbar() {
 
     renderTags();
     renderProjects();
-
   
