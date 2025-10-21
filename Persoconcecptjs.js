@@ -6,7 +6,6 @@
       {id:4, title:"TP4", tags:["TP"], short:"Liste", image:"head.webp", details:"Détails du projet 4 : UX/UI, backend.", src:"liste d'ordinateurTP4.html",href:"liste d'ordinateurTP4.html"},
       {id:5, title:"TP5", tags:["TP"], short:"1st css", image:"head.webp", details:"Détails du projet 5 : contenu, SEO.", src:"style.css/styleTP5.html",href:"style.css/styleTP5.html"},
       {id:6, title:"TP6", tags:["TP"], short:"2nd css", image:"head.webp", details:"Détails du projet 6 : data viz, interactivité.", src:"column.html",href:"column.html"},
-      
       {id:7, title:"mission", tags:["mission"], short:"Formulaire mission", image:"sweet fm.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"Formulaire/Formulaired'inscriptionTP6.html",href:"Formulaire/Formulaired'inscriptionTP6.html"},
       {id:8, title:"TP8", tags:["Vue.js","D3.js,","TP"], short:"Formulaire", image:"sweet fm.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"Formulaire/formulairesolo.html",href:"Formulaire/formulairesolo.html"},
       {id:11, title:"TP9", tags:["TP","Calculatrice.js"], short:"Calculatrice.js", image:"sweet fm.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"calculatrice TP9/train.html",href:"calculatrice TP9/train.html"},
@@ -110,4 +109,5 @@ function closeNavbar() {
 
     renderTags();
     renderProjects();
+
   
