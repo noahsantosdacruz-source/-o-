@@ -13,7 +13,8 @@
       {id:9, title:"TP10", tags:["TP"], short:"logiciel de virtualisation", image:"NOIR onduler.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"logiciel de virtualisation TP10/Logiciel de virtualisation-3.pdf",href:"logiciel de virtualisation TP10/Logiciel de virtualisation-3.pdf"},
     {id:10, title:"TP11", tags:["TP"], short:"Début", image:"NOIR onduler.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"TP12/tp11.html",href:"TP12/tp11.html"},
     {id:11, title:"TP12", tags:["TP"], short:"Début", image:"NOIR onduler.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"TP12/TP12LARVEULEUSE.html",href:"TP12/TP12LARVEULEUSE.html"},
-    
+    {id:12, title:"Projet_Test", tags:["TP","Projet_perso,Personnelle"], short:"projet_personnelle", image:"galaxie.jpg", details:"Inspiration & conspiration", src:"Projet1.html",href:"Projet1.html"},
+    {id:13, title:"mission", tags:["mission"], short:"Certification", image:"Capture d'écran 2025-11-05 001508.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Capture d'écran 2025-11-05 001508.png"},
     
     ];
 
