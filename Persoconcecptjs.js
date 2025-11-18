@@ -15,8 +15,8 @@
     {id:11, title:"TP12", tags:["TP"], short:"Début", image:"NOIR onduler.jpg", details:"Détails du projet 6 : data viz, interactivité.", src:"TP12/TP12LARVEULEUSE.html",href:"TP12/TP12LARVEULEUSE.html"},
     {id:12, title:"Projet_Test", tags:["TP","Projet_perso,Personnelle"], short:"projet_personnelle", image:"galaxie.jpg", details:"Inspiration & conspiration", src:"Projet1.html",href:"Projet1.html"},
     {id:13, title:"mission", tags:["mission"], short:"Certification", image:"Capture d'écran 2025-11-05 001508.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Capture d'écran 2025-11-05 001508.png"},
-    {id:14, title:"mission", tags:["mission"], short:"Certification", image:"Capture d'écran 2025-11-05 001508.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Amps/Capture d'écran 2025-11-18 114517.png"},
-     {id:15, title:"mission", tags:["mission"], short:"Certification", image:"Capture d'écran 2025-11-05 001508.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Amps/Capture d'écran 2025-11-18 114452.png"},
+    {id:14, title:"TP13", tags:["TP"], short:"AMPS", image:"Amps/Capture d'écran 2025-11-18 114517.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Amps/Capture d'écran 2025-11-18 114517.png"},
+     {id:15, title:"TP14", tags:["TP"], short:"AMPS", image:"Amps/Capture d'écran 2025-11-18 114452.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Amps/Capture d'écran 2025-11-18 114452.png"},
     
     ];
 
