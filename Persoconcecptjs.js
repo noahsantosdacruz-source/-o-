@@ -17,6 +17,10 @@
     {id:13, title:"mission", tags:["mission"], short:"Certification", image:"Capture d'écran 2025-11-05 001508.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Capture d'écran 2025-11-05 001508.png"},
     {id:14, title:"TP13", tags:["TP"], short:"AMPS", image:"Amps/Capture d'écran 2025-11-18 114517.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Amps/Capture d'écran 2025-11-18 114517.png"},
      {id:15, title:"TP14", tags:["TP"], short:"AMPS", image:"Amps/Capture d'écran 2025-11-18 114452.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Amps/Capture d'écran 2025-11-18 114452.png"},
+     {id:16, title:"mission_8", tags:["mission"], short:"L'atelier_RGPD", image:"Certifica/module1.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Certifica/Certificat_module1.pdf"},
+     {id:17, title:"mission_8", tags:["mission"], short:"L'atelier_RGPD", image:"Certifica/module2.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Certifica/Attestation_de_suivi_module2.pdf"},
+     {id:18, title:"mission_8", tags:["mission"], short:"L'atelier_RGPD", image:"Certifica/module3.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Certifica/Certificat_module3.pdf"},
+     {id:19, title:"mission_8", tags:["mission"], short:"L'atelier_RGPD", image:"Certifica/module4.png", details:"Détails du projet 6 : data viz, interactivité.",src:"Certifica/Certificat_module4.pdf"},
     
     ];
 
