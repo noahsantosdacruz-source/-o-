@@ -100,7 +100,7 @@
 
     }
     a { color: goldenrod; text-decoration: none; }
-    a:hover { text-decoration: overline; 
+    a:hover { 
       color: white;
       text-shadow: 0 0 5px black;
 
@@ -131,7 +131,8 @@
 h1 {
     text-align: center;
     font-size: 3em;
-    color: goldenrod;
+    color: whitesmoke;
     text-shadow: 2px 2px black;
     text-decoration: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
